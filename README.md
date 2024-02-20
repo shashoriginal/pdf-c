@@ -56,10 +56,6 @@ To set a custom background:
 **Shashank Raj**
 - GitHub: [shashoriginal](https://github.com/shashoriginal)
 
-## Contributions 🤝
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/shashoriginal/pdf-c-converter/issues).
-
 ## Show Your Support 💖
 
 Give a ⭐️ if this project helped you!
