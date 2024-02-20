@@ -1,0 +1,4 @@
+streamlit
+pdf2docx
+PyMuPDF
+Pillow
